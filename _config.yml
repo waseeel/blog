@@ -7,9 +7,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: شعبة 103
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
+  job: الفصل الافضل على الاطلاق
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
   email: forexample@website.com
 
@@ -17,7 +17,7 @@ author:
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
+    link: https://twitter.com/Dwaseel
   - name: Facebook
     link: https://facebook.com/
   - name: Instagram
